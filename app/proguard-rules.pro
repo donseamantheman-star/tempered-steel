@@ -1,0 +1,2 @@
+-keep class com.temperedsteel.tracker.data.** { *; }
+-keep class com.temperedsteel.tracker.backup.** { *; }
